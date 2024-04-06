@@ -2,6 +2,13 @@
 
 学术桥梁是一个免费的服务，旨在帮助研究人员和学者访问由于网络审查而受限的学术资源。无论您是学生、教育工作者还是研究人员，学术桥梁都旨在让您更轻松地从全球范围内获取您所需要的学术信息。
 
+## 特点
+
+- **免费使用**：学术桥梁完全免费使用，无隐藏费用。
+- **支持学术网站**：我们专门支持访问学术网站，包括但不限于 Google Scholar、ResearchGate、Academia.edu、ChatGpt、openai等。
+- **简单便捷**：我们的服务设计简单易用，只需几次点击即可访问被封锁的学术网站。
+- **全球覆盖**：无论您身在何处，只要有网络连接，就能够使用学术桥梁访问受限的学术资源。
+
 ## 支持的学术网站
 
 - [Google Scholar](https://scholar.google.com/)
@@ -24,14 +31,7 @@
 - [DOAJ (Directory of Open Access Journals)](https://doaj.org/)
 - [MDPI](https://www.mdpi.com/)
 - [ChatGPT](https://openai.com/gpt)
-
-## 特点
-
-- **免费使用**：学术桥梁完全免费使用，无隐藏费用。
-- **支持学术网站**：我们专门支持访问学术网站，包括但不限于 Google Scholar、ResearchGate、Academia.edu、ChatGpt、openai等。
-- **简单便捷**：我们的服务设计简单易用，只需几次点击即可访问被封锁的学术网站。
-- **全球覆盖**：无论您身在何处，只要有网络连接，就能够使用学术桥梁访问受限的学术资源。
-
+  
 ## 使用方法
 
 1. 访问 [学术桥梁官网](https://scholarbridge.example.com)。
