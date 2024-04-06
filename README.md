@@ -34,7 +34,7 @@
   
 ## 使用方法
 
-1. 访问 [学术桥梁官网](https://scholarbridge.example.com)。
+1. 访问 [学术桥梁官网](https://scholarbridge.dvpnx.com)。
 2. 输入您想要访问的学术网站的网址。
 3. 点击“开始访问”或类似按钮。
 4. 现在您可以自由访问目标学术网站了！
@@ -45,8 +45,8 @@
 
 ## 联系我们
 
-- **官方网站**：[https://scholarbridge.example.com](https://scholarbridge.example.com)
-- **邮箱**：support@scholarbridge.example.com
+- **官方网站**：[https://scholarbridge.example.com](https://scholarbridge.dvpnx.com)
+- **邮箱**：support@scholarbridge.dvpnx.com
 - **电话**：+1234567890
 
 我们致力于促进学术交流和研究合作。希望学术桥梁能成为您学术追求的有力助手！
