@@ -9,6 +9,37 @@
 - **简单便捷**：我们的服务设计简单易用，只需几次点击即可访问被封锁的学术网站。
 - **全球覆盖**：无论您身在何处，只要有网络连接，就能够使用学术桥梁访问受限的学术资源。
 
+
+## 支持的学术网站
+
+- [Google Scholar](https://scholar.google.com/)
+- [ResearchGate](https://www.researchgate.net/)
+- [Academia.edu](https://www.academia.edu/)
+- [Sci-Hub](https://sci-hub.do/)
+- [JSTOR](https://www.jstor.org/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [SpringerLink](https://link.springer.com/)
+- [Wiley Online Library](https://onlinelibrary.wiley.com/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Nature](https://www.nature.com/)
+- [Elsevier ScienceDirect](https://www.sciencedirect.com/)
+- [Taylor & Francis Online](https://www.tandfonline.com/)
+- [Oxford Academic (Oxford Journals)](https://academic.oup.com/journals)
+- [Cambridge Core](https://www.cambridge.org/core/)
+- [ArXiv](https://arxiv.org/)
+- [SSRN](https://www.ssrn.com/)
+- [Frontiers](https://www.frontiersin.org/)
+- [DOAJ (Directory of Open Access Journals)](https://doaj.org/)
+- [MDPI](https://www.mdpi.com/)
+- [ChatGPT](https://openai.com/gpt)
+  
+## 使用方法
+
+1. 访问 [学术桥梁官网](https://scholarbridge.dvpnx.com)。
+2. 输入您想要访问的学术网站的网址。
+3. 点击“开始访问”或类似按钮。
+4. 现在您可以自由访问目标学术网站了！
+
 ## 客户端
 
 **iOS 使用说明:**
@@ -43,36 +74,6 @@
 2. 打开Clash Verge应用程序。
 3. 在ScholarBridge客户端中选择Clash Verge作为代理工具，并按照提示配置代理设置。
 
-
-## 支持的学术网站
-
-- [Google Scholar](https://scholar.google.com/)
-- [ResearchGate](https://www.researchgate.net/)
-- [Academia.edu](https://www.academia.edu/)
-- [Sci-Hub](https://sci-hub.do/)
-- [JSTOR](https://www.jstor.org/)
-- [IEEE Xplore](https://ieeexplore.ieee.org/)
-- [SpringerLink](https://link.springer.com/)
-- [Wiley Online Library](https://onlinelibrary.wiley.com/)
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-- [Nature](https://www.nature.com/)
-- [Elsevier ScienceDirect](https://www.sciencedirect.com/)
-- [Taylor & Francis Online](https://www.tandfonline.com/)
-- [Oxford Academic (Oxford Journals)](https://academic.oup.com/journals)
-- [Cambridge Core](https://www.cambridge.org/core/)
-- [ArXiv](https://arxiv.org/)
-- [SSRN](https://www.ssrn.com/)
-- [Frontiers](https://www.frontiersin.org/)
-- [DOAJ (Directory of Open Access Journals)](https://doaj.org/)
-- [MDPI](https://www.mdpi.com/)
-- [ChatGPT](https://openai.com/gpt)
-  
-## 使用方法
-
-1. 访问 [学术桥梁官网](https://scholarbridge.dvpnx.com)。
-2. 输入您想要访问的学术网站的网址。
-3. 点击“开始访问”或类似按钮。
-4. 现在您可以自由访问目标学术网站了！
 
 ## 法律声明
 
