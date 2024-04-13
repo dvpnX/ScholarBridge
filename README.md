@@ -42,9 +42,10 @@
 
 ## 客户端订阅链接
 **配置订阅链接:**
-[点击此处访问订阅链接](https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999)
+
+1. 复制下面链接
 ```
-[点击此处访问订阅链接](https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999)
+https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 ```
 
 ## 客户端
