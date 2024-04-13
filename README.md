@@ -52,6 +52,12 @@
 2. 打开ShadowRocket和Sing-Box应用程序。
 3. 在ScholarBridge客户端中选择ShadowRocket或Sing-Box作为代理工具，并按照提示配置代理设置。
 
+**配置订阅链接:**
+[点击此处访问订阅链接](https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999)
+```
+[点击此处访问订阅链接](https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999)
+```
+
 **Android/鸿蒙手机 使用说明:**
 
 1. 下载并安装以下应用程序：
