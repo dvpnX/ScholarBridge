@@ -61,18 +61,18 @@ https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 **Android/鸿蒙手机 使用说明:**
 
 1. 下载并安装以下应用程序：
-   - [Clash Meta for Android](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
-     对应GitHub项目链接：[Clash Meta for Android GitHub](https://github.com/Kr328/ClashForAndroid)
-   - [NekoBox for Android](https://play.google.com/store/apps/details?id=app.neko.hinative)
-     对应GitHub项目链接：[NekoBox for Android GitHub](https://github.com/Unbinilium/NekoBox)
+   - [Clash Meta for Android](https://f-droid.org/packages/com.github.metacubex.clash.meta)
+     对应GitHub项目链接：[Clash Meta for Android GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid)
+   - [NekoBox for Android](https://play.google.com/store/apps/details?id=moe.nb4a)
+     对应GitHub项目链接：[NekoBox for Android GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
 2. 打开Clash Meta for Android和NekoBox for Android应用程序。
 3. 在ScholarBridge客户端中选择Clash Meta for Android或NekoBox for Android作为代理工具，并按照提示配置代理设置。
 
 **Windows/MacOS/Linux 使用说明:**
 
-1. 下载并安装[Clash Verge](https://github.com/Dreamacro/clash/releases)应用程序。
-   对应GitHub项目链接：[Clash Verge GitHub](https://github.com/Dreamacro/clash)
+1. 下载并安装[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)应用程序。
+   对应GitHub项目链接：[Clash Verge GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
 
 2. 打开Clash Verge应用程序。
 3. 在ScholarBridge客户端中选择Clash Verge作为代理工具，并按照提示配置代理设置。
@@ -84,8 +84,8 @@ https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 
 ## 联系我们
 
-- **官方网站**：[https://scholarbridge.example.com](https://scholarbridge.dvpnx.com)
-- **邮箱**：support@scholarbridge.dvpnx.com
+- **官方网站**：[https://scholarbridge.dvpnx.com](https://scholarbridge.dvpnx.com)
+- **邮箱**：dvpnxd@gmail.com
 - **电话**：+1234567890
 
 我们致力于促进学术交流和研究合作。希望学术桥梁能成为您学术追求的有力助手！
