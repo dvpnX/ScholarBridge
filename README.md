@@ -54,9 +54,7 @@ https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 
 1. 下载并安装以下应用程序：
    - [ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
-     ![ShadowRocket Icon](https://link.to.shadowrocket.icon)
    - [Sing-Box](https://apps.apple.com/us/app/sing-box/id1517390320)
-     ![Sing-Box Icon](https://link.to.sing-box.icon)
 2. 打开ShadowRocket和Sing-Box应用程序。
 3. 在ScholarBridge客户端中选择ShadowRocket或Sing-Box作为代理工具，并按照提示配置代理设置。
 
@@ -64,10 +62,8 @@ https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 
 1. 下载并安装以下应用程序：
    - [Clash Meta for Android](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
-     ![Clash Meta for Android Icon](https://link.to.clash-meta.icon)
      对应GitHub项目链接：[Clash Meta for Android GitHub](https://github.com/Kr328/ClashForAndroid)
    - [NekoBox for Android](https://play.google.com/store/apps/details?id=app.neko.hinative)
-     ![NekoBox for Android Icon](https://link.to.neko-box.icon)
      对应GitHub项目链接：[NekoBox for Android GitHub](https://github.com/Unbinilium/NekoBox)
 
 2. 打开Clash Meta for Android和NekoBox for Android应用程序。
@@ -76,7 +72,6 @@ https://shadhub-core.onrender.com/v1/api/account/scholarbridge/8d02b06b9f0859999
 **Windows/MacOS/Linux 使用说明:**
 
 1. 下载并安装[Clash Verge](https://github.com/Dreamacro/clash/releases)应用程序。
-   ![Clash Verge Icon](https://link.to.clash-verge.icon)
    对应GitHub项目链接：[Clash Verge GitHub](https://github.com/Dreamacro/clash)
 
 2. 打开Clash Verge应用程序。
